@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Designing a tool to predict Carbon Emissions in LLMs
+- 🔭 I’m currently working on Designing a tool to predict Carbon Emissions in LLMs using systolic arrays
   
 - 🌱 I’m currently learning how to fine-tune HuggingFace pre-trained models 
 
