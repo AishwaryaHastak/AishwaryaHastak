@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Designing a tool to predict Carbon Emissions in LLMs using systolic arrays
+- 🔭 I’m currently working on designing a tool to simulate the compute and memory consumption of training LLMs using systolic arrays
   
 - 🌱 I’m currently learning how to implement MLOps tools to build machine learning pipelines
 
