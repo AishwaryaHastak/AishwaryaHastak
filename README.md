@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Designing a tool to predict Carbon Emissions in LLMs using systolic arrays
   
-- 🌱 I’m currently learning how to fine-tune HuggingFace pre-trained models 
+- 🌱 I’m currently learning how to implement MLOps tools to build machine learning pipelines
 
 - 💬 Ask me about Quantum Machine Learning, Generative AI, and Large Language Models
 
