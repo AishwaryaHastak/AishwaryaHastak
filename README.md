@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on designing a tool to simulate the compute and memory consumption of training LLMs using systolic arrays
+- 🔭 I’m currently working on designing a simulation tool to measure the performance and efficiency of DNN accelerators on models using systolic arrays.
   
 - 🌱 I’m currently learning how to implement MLOps tools to build machine learning pipelines
 
-- 💬 Ask me about Quantum Machine Learning, Generative AI, and Large Language Models
+- 💬 Ask me about Machine Learning, Hardware Acceleration, Generative AI, Quantum Machine Learning and Large Language Models
 
 
 
