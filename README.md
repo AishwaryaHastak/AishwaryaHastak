@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on designing a simulation tool to measure the performance and efficiency of DNN accelerators on models using systolic arrays.
+- 🔭 I’m currently working on designing a simulation tool to measure the performance and efficiency of DNN accelerators on models using systolic arrays in a scale-out configuration.
   
 - 🌱 I’m currently learning how to implement MLOps tools to build machine learning pipelines
 
