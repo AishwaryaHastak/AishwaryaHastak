@@ -9,14 +9,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently building a Deep Q-Learning model
+
 -->
-
-
-- 🔭 I’m currently analysing a simulation tool to measure the performance and efficiency of DNN accelerators on various model topologies using systolic arrays in a scale-out configuration.
   
 - 🌱 I’m currently learning Graph Neural Networks.
 
-- 💬 Ask me about Machine Learning, Hardware Acceleration, Generative AI, Quantum Machine Learning and Large Language Models
+- 💬 Ask me about Machine Learning, Generative AI, Reinforcement Learning, and Large Language Models
 
 
 
