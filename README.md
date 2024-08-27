@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-- 🔭 I’m currently building a Deep Q-Learning model
 
 -->
   
-- 🌱 I’m currently learning Graph Neural Networks.
+- 🌱 I’m currently learning Reinforcement Learning.
+
+- 🔭 I’m currently building an RNN+CNN model for solving grid-based logical reasoning tasks.
 
 - 💬 Ask me about Machine Learning, Generative AI, Reinforcement Learning, and Large Language Models
 
