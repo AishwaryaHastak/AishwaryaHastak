@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaHastak&show_icons=true&theme=radical)
 
+![Durgesh's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=durgesh716&show_icons=true&theme=merko)
 
 -->
   
