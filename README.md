@@ -27,8 +27,7 @@ Here are some ideas to get you started:
   
 <div id="user-content-toc">
   <ul align="center">
-  <li>📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.</li>
-  <li></li>
+  <li>📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.</li></br></br>
   <li>🤝👯✨ I’m looking to collaborate on Machine Learning, Generative AI, Graph ML, Reinforcement Learning, and Large Language Model projects</li>
 
   </ul>
