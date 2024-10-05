@@ -32,34 +32,42 @@ Here are some ideas to get you started:
 
 
    
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages and Tools 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!-- LANGUAGES -->
 <p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://huggingface.co" target="_blank" rel="noreferrer"> 
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/> 
-</a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!--   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure Cloud" width="40" height="40"/> 
-</a> -->
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/> 
-</a>
+ <a href="https://www.python.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=py" alt="Python" height="50" width="50" /></a>&nbsp;
 
+<!-- ML TOOLS -->
+<p align="center">
+ <a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" height="50" width="50" /></a>&nbsp;
+ <a href="https://pytorch.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="50" width="50" /></a>&nbsp;
+<a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/></a>
+ <a href="https://scikit-learn.org/stable/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" width="50" /></a>&nbsp;
+ <a href="https://numpy.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="Numpy" height="50" width="50" /></a>&nbsp;
+</p>
 
-
+<!-- DATABASES -->
+<p align="center">
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://neo4j.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
 </a>
+</p>
+
+<!-- VC-->
+<p align="center">
+ <a href="https://www.docker.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" width="50" /></a>&nbsp;
+ <a href="https://git-scm.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" width="50" /></a>&nbsp;
+</p>
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+</p>
 
 
- 
- </p>
    
