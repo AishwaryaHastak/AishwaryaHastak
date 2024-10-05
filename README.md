@@ -1,7 +1,15 @@
-## Hi there 👋, I'm Aishwarya
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello there 👋, I'm Aishwarya</h1></summary>
+  </ul>
+</div>
 
 <!--
+
+I am a Data Scientist with over 2 years of experience in Data and Machine Learning Lifecycles, Natural Language Processing, and Generative Models. I'm a recent graduate from Indiana University Bloomington.
+
 **AishwaryaHastak/AishwaryaHastak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -14,19 +22,19 @@ Here are some ideas to get you started:
 ![GitHub repos](https://img.shields.io/github/repos/AishwaryaHastak?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AishwaryaHastak?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AishwaryaHastak?style=social)
+- 🔭 I’m currently building an RNN+CNN model for solving grid-based logical reasoning tasks.
 -->
   
-- 🌱 I’m currently learning Reinforcement Learning.
+- 📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.
 
-- 🔭 I’m currently building an RNN+CNN model for solving grid-based logical reasoning tasks.
-
-- 💬 Ask me about Machine Learning, Generative AI, Reinforcement Learning, and Large Language Models
+- 🤝👯✨ I’m looking to collaborate on Machine Learning, Generative AI, Graph ML, Reinforcement Learning, and Large Language Model projects
 
 
 
    
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<!-- <p align="left"> -->
+<p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
