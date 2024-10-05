@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently building an RNN+CNN model for solving grid-based logical reasoning tasks.
 -->
   
-- 📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.
+<div id="user-content-toc">
+  <ul align="center">
+  <li>📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.</li>
+  <li>🤝👯✨ I’m looking to collaborate on Machine Learning, Generative AI, Graph ML, Reinforcement Learning, and Large Language Model projects</li>
 
-- 🤝👯✨ I’m looking to collaborate on Machine Learning, Generative AI, Graph ML, Reinforcement Learning, and Large Language Model projects
-
+  </ul>
+</div>
 
 
    
