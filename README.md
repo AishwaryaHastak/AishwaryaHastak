@@ -3,29 +3,8 @@
     <summary><h1 style="display: inline-block">Hello there 👋, I'm Aishwarya</h1></summary>
   </ul>
 </div>
-
-<!--
-
-I am a Data Scientist with over 2 years of experience in Data and Machine Learning Lifecycles, Natural Language Processing, and Generative Models. I'm a recent graduate from Indiana University Bloomington.
-
-**AishwaryaHastak/AishwaryaHastak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaHastak&show_icons=true&theme=radical) 
-![GitHub repos](https://img.shields.io/github/repos/AishwaryaHastak?style=social)
-![GitHub stars](https://img.shields.io/github/stars/AishwaryaHastak?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AishwaryaHastak?style=social)
-- 🔭 I’m currently building an RNN+CNN model for solving grid-based logical reasoning tasks.
--->
   
-<div id="user-content-toc">
+<div id="user-content">
   <ul align="center">
   <li>📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.</li></br>
   <li>🤝👯✨ I’m looking to collaborate on Machine Learning, Generative AI, Graph ML, Reinforcement Learning, and Large Language Model projects</li>
