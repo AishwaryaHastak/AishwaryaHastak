@@ -1,13 +1,12 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello there 👋, I'm Aishwarya</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, I'm Aishwarya or Aish</h1></summary>
   </ul>
 </div>
   
 <div id="user-content-toc">
   <ul align="center">
-  <li>📚🧠🌱 I’m currently learning Graph Machine Learning and Representation Learning.</li></br>
-  <li>🤝👯✨ I’m looking to collaborate on Machine Learning, Generative AI, Graph ML, Reinforcement Learning, and Large Language Model projects</li>
+  <li></li> I’m open to collaborate on Machine Learning, Graph ML, RecSys, Reinforcement Learning, and Large Language Model projects</li>
 
   </ul>
 </div>
